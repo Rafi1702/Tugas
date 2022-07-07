@@ -10,3 +10,5 @@
 1. https://rivaldi48.blogspot.com/2018/08/cara-membuat-aplikasi-kuis-android.html
 2. https://hanifabdullah7.medium.com/kuis-array-fcd57418a0fe
 3. https://www.youtube.com/watch?v=sixqs5wFWFQ&t=794s
+
+Min SDK Version : API level 21 (Android 5.0)
